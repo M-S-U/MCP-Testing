@@ -1,0 +1,4 @@
+Title: Limitations of Human Computing vs Machines
+
+Summary:
+Humans excel in tasks like driving and natural language conversation, while machines dominate in calculations and data processing, highlighting the complementary strengths of human and machine intelligence.
